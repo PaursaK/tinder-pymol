@@ -21,11 +21,11 @@
           # 1. Directory containing the proteins to be compared (pdb files)
           # 2. Target protein to be compared (pdb file)
 
-#Next you load the target protein and then load all the proteins in the directory
+# Next you load the target protein and then load all the proteins in the directory
 # Then you align the target protein with each of the proteins in the directory
-# then you show the proteins in a nice way (e.g., cartoon, sticks, etc.)
-# then one by one you the proteins in the compare directory and ask the user if they like it or not (swipe left (left arrow) for discard, swipe right (right arrow) for like)
+# Then you show the proteins in a nice way (e.g., cartoon, sticks, etc.)
+# Then one by one you the proteins in the compare directory and ask the user if they like it or not (swipe left (left arrow) for discard, swipe right (right arrow) for like)
 # If the user likes the protein, it is added to the liked list, otherwise it is added to the discard list
 # finally, you save both lists in a designated directory (e.g. discarded and matches)
-# these two directories will be in a output directory that is created in the same directory as current working directory
+    # These two directories will be in a output directory that is created in the same directory as current working directory
 
